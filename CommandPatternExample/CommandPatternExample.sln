@@ -1,0 +1,52 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2018
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CommandPatternExample", "CommandPatternExample\CommandPatternExample.csproj", "{DC64712F-632B-4699-B80C-770A1D030C6C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApplication", "ConsoleApplication\ConsoleApplication.csproj", "{61D558AF-8368-4417-BB22-FA5AC30B1B16}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CommandPatternTests", "CommandPatternTests\CommandPatternTests.csproj", "{798109CC-A6FE-4245-9E43-E731FBDD82F4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DC64712F-632B-4699-B80C-770A1D030C6C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DC64712F-632B-4699-B80C-770A1D030C6C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DC64712F-632B-4699-B80C-770A1D030C6C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DC64712F-632B-4699-B80C-770A1D030C6C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{61D558AF-8368-4417-BB22-FA5AC30B1B16}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{61D558AF-8368-4417-BB22-FA5AC30B1B16}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{61D558AF-8368-4417-BB22-FA5AC30B1B16}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{61D558AF-8368-4417-BB22-FA5AC30B1B16}.Release|Any CPU.Build.0 = Release|Any CPU
+		{798109CC-A6FE-4245-9E43-E731FBDD82F4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{798109CC-A6FE-4245-9E43-E731FBDD82F4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{798109CC-A6FE-4245-9E43-E731FBDD82F4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{798109CC-A6FE-4245-9E43-E731FBDD82F4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9A6B4BDB-62CD-456A-8878-077FA51F8969}
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 4
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://hesa.visualstudio.com/
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = CommandPatternExample\\CommandPatternExample.csproj
+		SccProjectName1 = CommandPatternExample
+		SccLocalPath1 = CommandPatternExample
+		SccProjectUniqueName2 = ConsoleApplication\\ConsoleApplication.csproj
+		SccProjectName2 = ConsoleApplication
+		SccLocalPath2 = ConsoleApplication
+		SccProjectUniqueName3 = CommandPatternTests\\CommandPatternTests.csproj
+		SccProjectName3 = CommandPatternTests
+		SccLocalPath3 = CommandPatternTests
+	EndGlobalSection
+EndGlobal
